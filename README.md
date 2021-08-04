@@ -1,6 +1,6 @@
 # Detecting and Alerting Aggressive Driving Instances
 
-This repository contains the code for our project: Aggressive Driving Detection and Alert System Leveraging Current Signal Light Infrastructure by Emma Li and Brian Li. The project qualified as one of the Inspo Science Finalists as well as Broadcom MASTERS projects.
+This repository contains the code for our project: Aggressive Driving Detection and Alert System Leveraging Current Signal Light Infrastructure by Emma Li and Brian Li. 
 
 # Abstract
 
