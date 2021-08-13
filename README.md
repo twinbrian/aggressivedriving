@@ -8,5 +8,11 @@ According to the National Highway Traffic Safety Administration, aggressive driv
 
 # Videos
 
-Straight Line Alert System Video link is [here](https://drive.google.com/file/d/1IpdAHv_zDtZ3WNocq9sMf2qLszbKbI_o/view?usp=sharing)
+Straight Line Video is [here](https://drive.google.com/file/d/1IpdAHv_zDtZ3WNocq9sMf2qLszbKbI_o/view?usp=sharing).
+Straight Line And Turn Video is [here](https://drive.google.com/file/d/16saRlnhArQUXcy66wycwNP4lkzsUykIO/view?usp=sharing).
+Right Turn Video is [here](https://drive.google.com/file/d/1NO27Z-GI03Gg-XZ4wftEDjCDT_Gt7kPa/view?usp=sharing).
+Red Light Violation Video is [here](https://drive.google.com/file/d/1u9DhZmoMG8dGWnpMdZ14M2fbU0qeYDxy/view?usp=sharing).
+Left Turn Video is [here](https://drive.google.com/file/d/1u9DhZmoMG8dGWnpMdZ14M2fbU0qeYDxy/view?usp=sharing).
+Two Car Alert Video is [here](https://drive.google.com/file/d/1a-6HfTPPQtoG8_hmtCHweK0IubdPTlKd/view?usp=sharing).
+
 
